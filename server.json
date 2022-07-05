@@ -2,26 +2,58 @@
   "tasks": [
     {
       "id": 1,
-      "title": "Terminar o projeto",
-      "cheked": true
+      "title": "ZZZZZZZZ",
+      "checked": true
     },
     {
+      "title": "Jantar ",
       "id": 2,
-      "title": "Fazer consumo da API",
-      "cheked": true
+      "checked": false
     },
     {
-      "id": 3,
-      "title": "Estilizar o projeto",
-      "cheked": true
+      "title": "Três pratos de trigo para três Tigres tristes kkkk",
+      "checked": false,
+      "id": 3
     },
     {
-      "id": 4,
-      "title": "Entregar o projeto",
-      "cheked": true
+      "title": "add",
+      "checked": false,
+      "id": 4
     },
     {
+      "title": "O rato roeu a roupa do rei de Roma",
+      "checked": false,
       "id": 5
+    },
+    {
+      "title": "O rato roeu a roupa do rei de Roma",
+      "checked": false,
+      "id": 6
+    },
+    {
+      "title": "o peito do padre Pedro é preto kkk",
+      "checked": false,
+      "id": 7
+    },
+    {
+      "title": "o peito do padre Pedro é preto kkk",
+      "checked": false,
+      "id": 8
+    },
+    {
+      "title": "nbwheb",
+      "checked": false,
+      "id": 9
+    },
+    {
+      "title": "Assistir a Aula",
+      "checked": false,
+      "id": 10
+    },
+    {
+      "title": "3tr4t43",
+      "checked": false,
+      "id": 11
     }
   ]
 }
