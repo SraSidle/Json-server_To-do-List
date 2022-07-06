@@ -1,59 +1,44 @@
 {
   "tasks": [
     {
-      "id": 1,
-      "title": "ZZZZZZZZ",
-      "checked": true
+      "title": "Componentizar o projeto",
+      "checked": false,
+      "id": 1
     },
     {
-      "title": "Jantar ",
-      "id": 2,
-      "checked": false
+      "title": "Fazer o getAll",
+      "checked": false,
+      "id": 2
     },
     {
-      "title": "Três pratos de trigo para três Tigres tristes kkkk",
+      "title": "Pesquisa por Id",
       "checked": false,
       "id": 3
     },
     {
-      "title": "add",
+      "title": "Configurar a rota create",
       "checked": false,
       "id": 4
     },
     {
-      "title": "O rato roeu a roupa do rei de Roma",
+      "title": "Apresentar um Modal ao criar",
       "checked": false,
       "id": 5
     },
     {
-      "title": "O rato roeu a roupa do rei de Roma",
+      "title": "Sono",
       "checked": false,
       "id": 6
     },
     {
-      "title": "o peito do padre Pedro é preto kkk",
+      "title": "Desespero",
       "checked": false,
       "id": 7
     },
     {
-      "title": "o peito do padre Pedro é preto kkk",
+      "title": "Fome",
       "checked": false,
       "id": 8
-    },
-    {
-      "title": "nbwheb",
-      "checked": false,
-      "id": 9
-    },
-    {
-      "title": "Assistir a Aula",
-      "checked": false,
-      "id": 10
-    },
-    {
-      "title": "3tr4t43",
-      "checked": false,
-      "id": 11
     }
   ]
 }
