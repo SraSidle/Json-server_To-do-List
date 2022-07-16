@@ -1,5 +1,5 @@
 {
-  "name": "json_server_todolist",
+  "name": "fake-server",
   "version": "1.0.0",
   "description": "API de um To do List",
   "main": "server.js",
@@ -8,7 +8,6 @@
   },
   "keywords": [],
   "author": "Bianca Aguiar",
-  "license": "ISC",
   "dependencies": {
     "json-server": "^0.17.0"
   }
