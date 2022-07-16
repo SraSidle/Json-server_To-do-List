@@ -1,14 +1,13 @@
 {
   "name": "json_server_todolist",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "API de um To do List",
+  "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "server": "json-server server.json -w --port 3333"
+    "start": "node server.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Bianca Aguiar",
   "license": "ISC",
   "devDependencies": {
     "json-server": "^0.17.0"
